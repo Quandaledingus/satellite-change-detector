@@ -1,0 +1,9 @@
+# Pinned versions that were installed and tested together on Python 3.14.
+numpy==2.5.4
+pillow==13.0.0
+matplotlib==3.11.2
+streamlit==1.66.1
+
+# Development tools
+pytest==9.1.1
+ruff==0.17.2
